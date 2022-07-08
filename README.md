@@ -1,2 +1,2 @@
-# learn_git
+# learn_git example
 Basics of Git
